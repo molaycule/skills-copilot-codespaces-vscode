@@ -1,0 +1,15 @@
+{
+  "name": "skills-copilot-codespaces-vscode",
+  "version": "1.0.0",
+  "description": "<header>",
+  "main": "comments.js",
+  "scripts": {
+    "dev": "node comments.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
